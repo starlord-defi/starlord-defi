@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Zeru Finance
-🌱 I’m currently learning Defi
-👯 I’m looking to collaborate on Zeru Finance
-💬 Ask me about Defi, Blockchain, Web3, Ethers.js, React.js, Node.js, Redux, MongoDB
-📫 How to reach me: discord: starlord_defi
-⚡ Fun fact: I am the StarLord of Defi
+- 🔭 I’m currently working on Zeru Finance
+- 🌱 I’m currently learning Defi
+- 👯 I’m looking to collaborate on Zeru Finance
+- 💬 Ask me about Defi, Blockchain, Web3, Ethers.js, React.js, Node.js, Redux, MongoDB
+- 📫 How to reach me: discord: starlord_defi
+- ⚡ Fun fact: I am the StarLord of Defi
