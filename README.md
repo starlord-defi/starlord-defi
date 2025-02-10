@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer and blockchain enthusia
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various DeFi projects and smart contracts.
+- 🔭 I’m currently working on various DeFi projects and smart contracts, mainly on Zeru (zeru.finance, myzscore.ai).
 - 🌱 I’m constantly learning more about blockchain, smart contracts, and decentralized applications.
 - 👯 I’m looking to collaborate on open-source projects in the blockchain space.
 - 💬 Ask me about blockchain, DeFi, and web3 technologies.
-- 📫 How to reach me: [starlord.defi@example.com](mailto:starlord.defi@example.com)
+- 📫 How to reach me: [akshay@zeru.finance](mailto:akshay@zeru.finance)
 - ⚡ Fun fact: I love exploring the cosmos through astronomy and sci-fi movies.
 
 ## 🛠️ Technologies & Tools
